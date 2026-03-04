@@ -1,0 +1,1 @@
+function summarizePerson(id: number, firstName: string)
