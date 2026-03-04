@@ -1,0 +1,1 @@
+const evenSum = (num: number, num1: number, num2: number): boolean => (num + num1 + num2) % 2 === 0;
